@@ -52,3 +52,7 @@
 ## Special Mention(s)
 - Inspired by [video to animated GIF converter](https://ezgif.com/video-to-GIF).
 - A refined version of [video-to-GIF](https://incubated-geek-cc.github.io/video-to-GIF2/).
+
+## Reasons for forking
+- Hacking to see if allowing the FPS to be set by the user will work
+- Possibly add optimization code to reduce the size of the generated GIF
